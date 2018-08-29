@@ -9,7 +9,6 @@ http://infosiap.siap.gob.mx:8080/agricola_siap_gobmx/ResumenProducto.do
 Columns in file meaning:
 
 | Spanish  | English | 
-| :-------: | ------:|
 | Año       | Year  | 
 | Mes      | Months  | 
 | Estado      | State  | 
