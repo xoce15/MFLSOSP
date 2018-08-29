@@ -13,8 +13,8 @@ Columns in file meaning:
 | Año       | Year  | 
 | Mes      | Months  | 
 | Estado      | State  | 
-| Superficie Sembrada (ha)      | Sown surface (ha)  |
-| Superficie cosechada (ha)      | Harvested surface (ha)  |
+| Superficie Sembrada (ha)      | Planted area (ha)  |
+| Superficie cosechada (ha)      | Harvested area (ha)  |
 | Producción obtenida (ton)     | Production obtained (ton)  |
-<caption>Table 1. nomenclature in header </caption><br>
+<caption>Table 1. Nomenclature in header </caption><br>
 <br>
