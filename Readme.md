@@ -1,7 +1,7 @@
 # Repository about oilseed production in México 
 
 <p align="justify">
-This repository contains data of monthly soybean production in Mexico from 2004 to 2017. \\
+This repository contains data of monthly soybean production in Mexico from 2004 to 2017. 
 Data is obtained from Agrifood and Fisheries Information Service (Servicio de Información Agroalimentaria y Pesquera) and available here: 
 </p>
 http://infosiap.siap.gob.mx:8080/agricola_siap_gobmx/ResumenProducto.do
