@@ -15,6 +15,4 @@ Columns in file meaning:
 | Estado      | State  | 
 | Superficie Sembrada (ha)      | Planted area (ha)  |
 | Superficie cosechada (ha)      | Harvested area (ha)  |
-| Producción obtenida (ton)     | Production obtained (ton)  |
-<caption>Table 1. Nomenclature in header </caption><br>
-<br>
+| Producción obtenida (ton)     | Obtained production (t)  |
