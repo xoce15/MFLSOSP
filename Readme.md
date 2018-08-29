@@ -1,4 +1,4 @@
-# Repository about oilseed production in México 
+# Repository about oilseed production in Mexico 
 
 <p align="justify">
 This repository contains data of monthly soybean production in Mexico from 2004 to 2017. 
